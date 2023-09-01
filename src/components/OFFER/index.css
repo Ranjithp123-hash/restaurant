@@ -1,0 +1,50 @@
+.offer-container {
+    background-image: url("https://png.pngtree.com/background/20210710/original/pngtree-gourmet-japanese-restaurant-sushi-creative-simple-business-poster-design-picture-image_1016307.jpg");
+    height: 100vh;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.head{
+    color: red;
+    font-size: 20px;
+    font-family: "cursive";
+}
+
+.card-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 150px;
+    width: 300px;
+    background-color: #ffffff;
+    position: absolute;
+    top: 30%;
+    left: 65%;
+    border-radius: 8px;
+    padding: 10px;
+    text-align: center;
+}
+.title {
+    color: black;
+    font-size: 18px;
+    font-family: 'Roboto';
+}
+.offer {
+    color: rgb(83, 85, 88);
+    font-size: 12px; 
+    font-family: "Roboto";
+}
+
+.order-button{
+    color: red;
+    font-size: 12px;
+    font-family: "Roboto";
+    border: 1px solid red;
+    border-radius: 4px;
+    height: 40px;
+    width: 80px;
+
+}

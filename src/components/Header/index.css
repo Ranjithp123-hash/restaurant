@@ -1,0 +1,24 @@
+
+.list-container{
+    display: flex;
+    justify-content: flex-end;
+    list-style: none;
+    margin-right: 20px;
+    top: 50px;
+}
+
+
+.list-item{
+    padding-left: 6px;
+    color: #ffffff;
+    font-size: 11px;
+    list-style-type: none;
+    font-style: "Cursive";
+    font-weight: 500;
+}
+.head{
+    font-style: "Cursive";
+    font-size: 22px;
+    font-weight: 600;
+    text-decoration: underline;
+}
